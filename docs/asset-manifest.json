@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/self-introduction/frontend/static/css/main.2310ee42.css",
+    "main.js": "/self-introduction/frontend/static/js/main.f7aae862.js",
+    "index.html": "/self-introduction/frontend/index.html",
+    "main.2310ee42.css.map": "/self-introduction/frontend/static/css/main.2310ee42.css.map",
+    "main.f7aae862.js.map": "/self-introduction/frontend/static/js/main.f7aae862.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2310ee42.css",
+    "static/js/main.f7aae862.js"
+  ]
+}
