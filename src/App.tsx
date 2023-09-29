@@ -16,6 +16,3 @@ const App: React.FC = () => {
 };
 
 export default App;
-
-// npx create-react-app my-ssr-app --template typescript -> x
-// 今だとViteを使ったほうがいい
